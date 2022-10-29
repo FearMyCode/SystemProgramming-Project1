@@ -1,0 +1,3 @@
+10 10 * * *	long-command
+12 10 * * *	medium-command
+15 10 * * *	short-command

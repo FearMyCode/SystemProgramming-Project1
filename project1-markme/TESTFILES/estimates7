@@ -1,0 +1,4 @@
+fast-command		1
+daily-command		10
+weekly-command		30
+slow-command		100

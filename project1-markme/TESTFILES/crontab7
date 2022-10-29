@@ -1,0 +1,2 @@
+0 3 * * *	daily-command
+10 4 * * sun	weekly-command

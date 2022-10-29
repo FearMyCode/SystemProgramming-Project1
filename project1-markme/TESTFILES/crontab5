@@ -1,0 +1,2 @@
+# execute a command at 3AM every day
+0 3 * * *      daily-command
